@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://lonanaedhia.github.io/Illustration/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://lonanaedhia.github.io/Illustration/</loc>
+</url>
+<url>
+<loc>https://lonanaedhia.github.io/Illustration/lonan-aedhia-presentation.html</loc>
+<lastmod>2022-05-11T10:44:06+02:00</lastmod>
+<image:image>
+<image:loc>https://lonanaedhia.github.io/Illustration/media\posts\1/Astrae-Etoile-close-up-2-2.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+</urlset>

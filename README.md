@@ -1,2 +1,0 @@
-# Illustration
-Lonan's Illustration
