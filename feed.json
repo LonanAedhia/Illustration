@@ -10,6 +10,38 @@
     },
     "items": [
         {
+            "id": "https://lonanaedhia.github.io/Illustration/ardal-dieu-du-sanzu-illustration-a-lencre.html",
+            "url": "https://lonanaedhia.github.io/Illustration/ardal-dieu-du-sanzu-illustration-a-lencre.html",
+            "title": "Ardal, Dieu du Sanzu - Illustration à l&#x27;encre",
+            "summary": "Ardal s'éveille après un comas de douze ans au fond du fleuve&hellip;",
+            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://lonanaedhia.github.io/Illustration/media/posts/3/Ardal-01.Ban1.jpg\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://lonanaedhia.github.io/Illustration/media/posts/3/responsive/Ardal-01.Ban1-xs.jpg 300w ,https://lonanaedhia.github.io/Illustration/media/posts/3/responsive/Ardal-01.Ban1-sm.jpg 480w ,https://lonanaedhia.github.io/Illustration/media/posts/3/responsive/Ardal-01.Ban1-md.jpg 768w ,https://lonanaedhia.github.io/Illustration/media/posts/3/responsive/Ardal-01.Ban1-lg.jpg 1024w\"  alt=\"\" width=\"1800\" height=\"606\"></figure>\n<p>Ardal s'éveille après un comas de douze ans au fond du fleuve magique, le Sanzu. Ce fleuve invoqué par sa compagne, Lifh, pour le sauver des flammes dieu fou Déméthos devient le principal obstacle entre elle et Ardal pour se retrouver.  Au terme d'une quête, Ardal devient le dieu du Sanzu… Mais tout dieu qu'il est, pourra-t-il retrouver Lifh ? </p>\n<figure class=\"post__image post__image--wide\"><img loading=\"lazy\"  src=\"https://lonanaedhia.github.io/Illustration/media/posts/3/Ardal-01-2.jpg\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://lonanaedhia.github.io/Illustration/media/posts/3/responsive/Ardal-01-2-xs.jpg 300w ,https://lonanaedhia.github.io/Illustration/media/posts/3/responsive/Ardal-01-2-sm.jpg 480w ,https://lonanaedhia.github.io/Illustration/media/posts/3/responsive/Ardal-01-2-md.jpg 768w ,https://lonanaedhia.github.io/Illustration/media/posts/3/responsive/Ardal-01-2-lg.jpg 1024w\"  alt=\"Illustration encre, Ardal dieu du Sanzu, par Lonan Aedhia\" width=\"733\" height=\"1000\"></figure>",
+            "image": "https://lonanaedhia.github.io/Illustration/media/posts/3/Ardal-01.jpg",
+            "author": {
+                "name": "Lonan Aedhia"
+            },
+            "tags": [
+                   "Miroir des Âmes"
+            ],
+            "date_published": "2022-05-20T17:07:09+02:00",
+            "date_modified": "2022-05-20T17:07:09+02:00"
+        },
+        {
+            "id": "https://lonanaedhia.github.io/Illustration/yatagarasu-corbeau-a-trois-pattes.html",
+            "url": "https://lonanaedhia.github.io/Illustration/yatagarasu-corbeau-a-trois-pattes.html",
+            "title": "Yatagarasu, Corbeau à trois pattes",
+            "summary": "Yatagarasu est le corbeau du Miroir des Âmes, un prophète à trois&hellip;",
+            "content_html": "<p>Yatagarasu est le corbeau du Miroir des Âmes, un prophète à trois pattes. Il est perché, très versé dans l'art de voler de l'alcool aux humanoïdes et sert de messager lorsque la Meute de Lifh, Cerbère, Morria, Baelzabeth et Renard est dispersée. Agent du destin, il est imprégné par la Fortuna et semble connaitre des éléments que les dieux eux-mêmes ignorent. </p>\n<figure class=\"post__image post__image--wide\"><img loading=\"lazy\"  src=\"https://lonanaedhia.github.io/Illustration/media/posts/2/243455613_384932749765584_7903655643948438683_n-2.jpg\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://lonanaedhia.github.io/Illustration/media/posts/2/responsive/243455613_384932749765584_7903655643948438683_n-2-xs.jpg 300w ,https://lonanaedhia.github.io/Illustration/media/posts/2/responsive/243455613_384932749765584_7903655643948438683_n-2-sm.jpg 480w ,https://lonanaedhia.github.io/Illustration/media/posts/2/responsive/243455613_384932749765584_7903655643948438683_n-2-md.jpg 768w ,https://lonanaedhia.github.io/Illustration/media/posts/2/responsive/243455613_384932749765584_7903655643948438683_n-2-lg.jpg 1024w\"  alt=\"Corbeau illustration encre\" width=\"685\" height=\"1000\"></figure>",
+            "image": "https://lonanaedhia.github.io/Illustration/media/posts/2/243455613_384932749765584_7903655643948438683_n.jpg",
+            "author": {
+                "name": "Lonan Aedhia"
+            },
+            "tags": [
+                   "Miroir des Âmes"
+            ],
+            "date_published": "2022-05-20T16:59:20+02:00",
+            "date_modified": "2022-05-20T16:59:20+02:00"
+        },
+        {
             "id": "https://lonanaedhia.github.io/Illustration/lonan-aedhia-presentation.html",
             "url": "https://lonanaedhia.github.io/Illustration/lonan-aedhia-presentation.html",
             "title": "Lonan Aedhia - Presentation",
