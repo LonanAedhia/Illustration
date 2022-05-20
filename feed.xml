@@ -1,14 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title>Lonan&#x27;s Illustrations</title>
+    <title>Lonan Aedhia Illustrations</title>
     <link href="https://lonanaedhia.github.io/Illustration/feed.xml" rel="self" />
     <link href="https://lonanaedhia.github.io/Illustration" />
-    <updated>2022-05-20T17:07:09+02:00</updated>
+    <updated>2022-05-20T20:36:51+02:00</updated>
     <author>
         <name>Lonan Aedhia</name>
     </author>
     <id>https://lonanaedhia.github.io/Illustration</id>
 
+    <entry>
+        <title>Lifh, la Dame du Sanzu - Encre sur papier</title>
+        <author>
+            <name>Lonan Aedhia</name>
+        </author>
+        <link href="https://lonanaedhia.github.io/Illustration/lifh-la-dame-du-sanzu-encre-sur-papier.html"/>
+        <id>https://lonanaedhia.github.io/Illustration/lifh-la-dame-du-sanzu-encre-sur-papier.html</id>
+            <category term="Miroir des Âmes"/>
+
+        <updated>2022-05-20T20:36:51+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://lonanaedhia.github.io/Illustration/media/posts/4/Lifh-01-SMALL.jpg" alt="Lifh sanzu illustration encre Lonan Aedhia" />
+                    Lifh, première déesse de l'Agma, a donné naissance au Sanzu pour sauver&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://lonanaedhia.github.io/Illustration/media/posts/4/Lifh-01-SMALL.jpg" alt="Lifh sanzu illustration encre Lonan Aedhia" />
+                <p>Lifh, première déesse de l'Agma, a donné naissance au Sanzu pour sauver le monde. Elle devient la main d'Ouros pour réaliser le Vœu d'Astrae malgré le deuil de l'homme qu'elle aime.</p>
+<p>Illustration réalisée par Lonan Aedhart sur un papier aquarelle à l'encre de Chine noir et rouge avec des touches dorées. Elle prend vie dans l'univers du "Monde Oublié" et est issue de la série de romans du "Miroir des Âmes". Lifh en est un des personnages principaux.  </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Ardal, Dieu du Sanzu - Illustration à l&#x27;encre</title>
         <author>

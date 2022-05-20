@@ -1,14 +1,31 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Lonan&#x27;s Illustrations",
+    "title": "Lonan Aedhia Illustrations",
     "description": "",
     "home_page_url": "https://lonanaedhia.github.io/Illustration",
     "feed_url": "https://lonanaedhia.github.io/Illustration/feed.json",
     "user_comment": "",
+    "icon": "https://lonanaedhia.github.io/Illustration/media/website/Astrae-Etoile-close-up-2.jpg",
     "author": {
         "name": "Lonan Aedhia"
     },
     "items": [
+        {
+            "id": "https://lonanaedhia.github.io/Illustration/lifh-la-dame-du-sanzu-encre-sur-papier.html",
+            "url": "https://lonanaedhia.github.io/Illustration/lifh-la-dame-du-sanzu-encre-sur-papier.html",
+            "title": "Lifh, la Dame du Sanzu - Encre sur papier",
+            "summary": "Lifh, première déesse de l'Agma, a donné naissance au Sanzu pour sauver&hellip;",
+            "content_html": "<p>Lifh, première déesse de l'Agma, a donné naissance au Sanzu pour sauver le monde. Elle devient la main d'Ouros pour réaliser le Vœu d'Astrae malgré le deuil de l'homme qu'elle aime.</p>\n<p>Illustration réalisée par Lonan Aedhart sur un papier aquarelle à l'encre de Chine noir et rouge avec des touches dorées. Elle prend vie dans l'univers du \"Monde Oublié\" et est issue de la série de romans du \"Miroir des Âmes\". Lifh en est un des personnages principaux.  </p>",
+            "image": "https://lonanaedhia.github.io/Illustration/media/posts/4/Lifh-01-SMALL.jpg",
+            "author": {
+                "name": "Lonan Aedhia"
+            },
+            "tags": [
+                   "Miroir des Âmes"
+            ],
+            "date_published": "2022-05-20T20:36:51+02:00",
+            "date_modified": "2022-05-20T20:36:51+02:00"
+        },
         {
             "id": "https://lonanaedhia.github.io/Illustration/ardal-dieu-du-sanzu-illustration-a-lencre.html",
             "url": "https://lonanaedhia.github.io/Illustration/ardal-dieu-du-sanzu-illustration-a-lencre.html",
